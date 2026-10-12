@@ -1,3 +1,5 @@
+안녕하세요 승현입니다
+
 # collab-playground
 
 **Git/GitHub 협업하기** 실습 레포입니다.
